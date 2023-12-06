@@ -19,7 +19,7 @@ The Tkinter Calculator Application is a basic calculator implemented using Pytho
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/momikich/Calculator-App.git
+   git clone https://github.com/Abdellahelb/Calculator-App.git
    cd Calculator-App
    ```
 
